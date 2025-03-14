@@ -1,1 +1,1 @@
-# AiImpsctHub
+# AiImpactHub
